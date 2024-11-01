@@ -1,0 +1,55 @@
+# Build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet packages
+*/packages/
+*.nupkg
+*.snupkg
+
+# Visual Studio files
+*.user
+*.suo
+*.cache
+*.vspscc
+*.vssscc
+*.tss
+*.zip
+*.csproj.user
+*.publishsettings
+node_modules/
+
+#Ignore thumbnails created by Windows
+Thumbs.db
+#Ignore files built by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.aps
+*.pch
+*_i.c
+*_p.c
+*.ncb
+*.tlb
+*.tlh
+*.bak
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+.vs/
+#Nuget packages folder
+packages/
